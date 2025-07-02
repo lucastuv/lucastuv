@@ -48,7 +48,7 @@
 
 ### 🎵 Tocando agora no Spotify 🎧
 
-[![Spotify](https://github-readme-remake.vercel.app/api/spotify)](https://open.spotify.com/user/12142462886)
+[![Spotify](https://novatorem-lucastuvs-projects.vercel.app/api/spotify)](https://open.spotify.com/user/12142462886)
 
 <br/>
 
